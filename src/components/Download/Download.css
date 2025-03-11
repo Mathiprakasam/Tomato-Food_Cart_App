@@ -1,0 +1,38 @@
+.download{
+    margin:20px 0px;
+    padding: 20px;
+    text-align: center;
+    margin: 100px 0px;
+}
+
+.download p{
+    color: tomato;
+    font-weight: 900;
+    font-size: 2.5vw;
+    padding: 5px 0px;
+}
+
+.app-store{
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+    margin-top: 20px;
+}
+
+.app-store img:hover{
+    transform: scale(1.05);
+    cursor:pointer;
+}
+
+@media(max-width:450px){
+    .app-store img{
+        width: 50%;
+    }
+    .download p{
+        font-size: 20px;
+    }
+
+    .download{
+        margin:50px 0px;
+    }
+}
