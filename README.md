@@ -23,22 +23,22 @@ Tomato focuses on cart management, making it easy to add, remove, and update ite
 ## ✅ Features:
 
 ## 🚀 Frontend (ReactJS):
-✔️ Interactive UI with smooth state updates
-✔️ Easy item selection and cart management
-✔️ Simple checkout process
+• Interactive UI with smooth state updates
+• Easy item selection and cart management
+• Simple checkout process
 
 ## ⚡ State Management (React Context API):
-✔️ Efficient cart state management
-✔️ Instant updates when adding or removing items
+• Efficient cart state management
+• Instant updates when adding or removing items
 
 ## 🛒 Cart Functionality:
-✔️ Dynamically add items to cart
-✔️ Easily increase or decrease quantity
-✔️ View total bill summary before checkout
+• Dynamically add items to cart
+• Easily increase or decrease quantity
+• View total bill summary before checkout
 
 ## 🛍️ Checkout & Order Process:
-✔️ Alert message before proceeding to order
-✔️ A seamless and intuitive user experience
+• Alert message before proceeding to order
+• A seamless and intuitive user experience
 
 🔗 Project Code & Details:
 GitHub: github.com/Mathiprakasam/Tomato-Food_Cart_App.git
@@ -50,7 +50,7 @@ GitHub: github.com/Mathiprakasam/Tomato-Food_Cart_App.git
 
 
 
-## Checkout My You Tube Video for preview
+## Checkout My You Tube Video for Preview
 
 🔗 YouTube Video
 
